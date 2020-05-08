@@ -1,0 +1,19 @@
+{
+  "id": "f8c072ee-a11f-487e-ab63-560b6efc7084",
+  "name": "48.AddingPagesToTellMe",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
